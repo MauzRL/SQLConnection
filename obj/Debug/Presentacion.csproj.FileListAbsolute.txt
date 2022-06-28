@@ -1,0 +1,11 @@
+C:\Users\mauri\Desktop\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\mauri\Desktop\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\mauri\Desktop\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\mauri\Desktop\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauri\Desktop\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\mauri\Desktop\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\mauri\Desktop\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\mauri\Desktop\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\mauri\Desktop\Presentacion\obj\Debug\Presentacion.pdb
